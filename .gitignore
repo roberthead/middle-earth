@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+*.pyc
+
+# Compiled Python files
+__pycache__/
+
+# OS and Editor folders
+.DS_Store
+Thumbs.db
+
+# JetBrains IDEs
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# SQLite database
+*.sqlite3
+
+# Log files
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
